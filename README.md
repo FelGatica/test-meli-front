@@ -13,4 +13,4 @@
 
 ### Execution
 ```terminal
-npm start
+npm run start
